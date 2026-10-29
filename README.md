@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Wagner Teles Machado, tenho 29 anos e sou natural do Rio de Janeiro.
-Atualmente sou estágiario e tenho dedicado muito do meu tempo para aprender novas tecnologias, arquitetura de sistemas e lógica de programação. Acredito na melhoria contínua e na troca de conhecimento como os melhores caminhos para crescer no mercado de tecnologia.
+Atualmente sou um desafiante as competências para um programador júnior e tenho dedicado muito do meu tempo para aprender novas tecnologias, arquitetura de sistemas e lógica de programação. Acredito na melhoria contínua e na troca de conhecimento como os melhores caminhos para crescer no mercado de tecnologia.
 
 ---
 
